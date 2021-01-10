@@ -1,0 +1,4 @@
+<a class="weatherwidget-io" href="https://forecast7.com/en/n23d00n43d37/barra-da-tijuca/" data-label_1="BARRA DA TIJUCA" data-label_2="WEATHER" data-font="Roboto Slab" data-icons="Climacons Animated" data-theme="beige" data-basecolor="#f3e8ef" data-textcolor="#805d84" data-highcolor="#805d84" data-lowcolor="#805d84" data-suncolor="#c37998" data-mooncolor="#c37998" data-cloudcolor="#c37998" data-cloudfill="#f3e8ef" data-raincolor="#c37998" data-snowcolor="#c37998" >BARRA DA TIJUCA WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
